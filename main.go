@@ -2,9 +2,10 @@ package main
 
 import (
 	"archive/zip"
-	"bitrise-app-analyser/analyser"
 	"fmt"
 	"os"
+
+	"github.com/godrei/bitrise-app-analyser/analyser"
 )
 
 func main() {
